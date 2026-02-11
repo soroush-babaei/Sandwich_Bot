@@ -1,0 +1,7 @@
+python-telegram-bot==20.7
+Pillow==10.1.0
+arabic-reshaper==3.0.0
+python-bidi==0.4.2
+jdatetime==4.1.1
+geopy==2.4.1
+python-dotenv==1.0.0
