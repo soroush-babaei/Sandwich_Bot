@@ -27,7 +27,7 @@
 
 1. **کلون کردن رپازیتوری:**
    ```bash
-   git clone https://github.com/soroush-babaei/Sandwich_Bot.git
+   git clone https://github.com/soroush-babaei/Online-Food-Ordering-Bot.git
    cd Sandwich_Bot
    ```
 2. **نصب وابستگی‌ها:**
